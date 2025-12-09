@@ -1,3 +1,6 @@
+[submodule "ndtkit-cpp-api-examples"]
+	path = ndtkit-cpp-api-examples
+	url = https://github.com/cedric-bertrand-testia/ndtkit-cpp-api-examples.git
 [submodule "ndtkit-python-api-examples"]
 	path = ndtkit-python-api-examples
 	url = https://github.com/cedric-bertrand-testia/ndtkit-python-api-examples.git
