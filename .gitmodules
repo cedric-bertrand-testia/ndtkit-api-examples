@@ -1,3 +1,6 @@
 [submodule "ndtkit-python-api-examples"]
 	path = ndtkit-python-api-examples
 	url = https://github.com/cedric-bertrand-testia/ndtkit-python-api-examples.git
+[submodule "ndtkit-jython-api-examples"]
+	path = ndtkit-jython-api-examples
+	url = https://github.com/cedric-bertrand-testia/ndtkit-jython-api-examples.git
