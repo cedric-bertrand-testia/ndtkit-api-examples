@@ -7,3 +7,6 @@
 [submodule "ndtkit-jython-api-examples"]
 	path = ndtkit-jython-api-examples
 	url = https://github.com/cedric-bertrand-testia/ndtkit-jython-api-examples.git
+[submodule "ndtkit-batch-api-examples"]
+	path = ndtkit-batch-api-examples
+	url = https://github.com/cedric-bertrand-testia/ndtkit-batch-api-examples.git
